@@ -1,0 +1,7 @@
+https://lyceum-fa.eljur.ru/api
+Ключ разработчика (devkey): d7d706aa96e3fa15df1657d86e81cb10
+Расширенный доступ
+Логин: lyceum-fa_api
+Пароль: 909cb02f4bfdba51bfa3c4466798c2fc
+
+Vendor: lyceum-fa
